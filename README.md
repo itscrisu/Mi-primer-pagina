@@ -1,3 +1,3 @@
-# Mi primer pagina web
+# My first Web Page
 
-Realizada con HTML y CSS
+Recently I started learning some HTML and CSS, so I came up with this simple web page (its on spanish, maybe later i would upload an english version of it)
